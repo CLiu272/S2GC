@@ -3,6 +3,7 @@ clc
 
 addpath(genpath(pwd))
 
+% please download the dataset first: https://pan.baidu.com/s/1JlnKE5ER9lsfqWBgL6fVog
 load  BIC 
  
 [Data1] = ProgressData(Gene);
