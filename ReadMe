@@ -1,8 +1,10 @@
-Supervised graph clustering for cancer subtyping based on survival analysis and integration of multi-omic tumor data
+## Supervised graph clustering for cancer subtyping based on survival analysis and integration of multi-omic tumor data
 
-The dataset can be download from: https://pan.baidu.com/s/1JlnKE5ER9lsfqWBgL6fVog
+#### The dataset can be download from: https://pan.baidu.com/s/1JlnKE5ER9lsfqWBgL6fVog
 
-Citation:
+#### Citation:
+
+```
 
 @ARTICLE{S2GCTcbb2020,
   author={Liu, Cheng and Cao, Wenming and Wu, Si and Shen, Wenjun and Jiang, Dazhi and Yu, Zhiwen and Wong, Hau-San},
@@ -14,3 +16,5 @@ Citation:
   pages={1193-1202},
   doi={10.1109/TCBB.2020.3010509}
   }
+
+```
